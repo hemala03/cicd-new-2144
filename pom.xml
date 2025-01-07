@@ -35,8 +35,9 @@
 						<muleVersion>4.8.0</muleVersion>
 						<username>hemaneww</username>
 						<password>Hemala03</password>
+						<businessGroup>Warriors</businessGroup>
 						<applicationName>cicd-new-2144</applicationName>
-						<environment>DEV</environment>
+						<environment>UAT</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<properties>
